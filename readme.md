@@ -21,14 +21,14 @@
 
 ### Languages and Tools
 
-<p align="center">
+<p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
 ### Relevant work
-<p align="center">
+<p>
   <a href="https://github.com/MuTe33/cloud_backend_test">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mute33&repo=cloud_backend_test" />
   </a>
