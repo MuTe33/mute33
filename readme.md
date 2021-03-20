@@ -11,8 +11,8 @@
 
 ### About my work
 
-- 💻 Working at [MediaMarktSaturn](https://www.eyeem.com/) as a freelancer.
-- 👨‍🎓 Computer Science student
+- 💻 Working at [MediaMarktSaturn](https://www.mediamarktsaturn.com/) as a Software Engineer.
+- 👨‍🎓 Self-taught Developer
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2019 
 
 ### Languages and Tools
