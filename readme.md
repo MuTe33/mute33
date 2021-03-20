@@ -11,10 +11,6 @@
 
 ### About my work
 
-<a href="https://github.com/mute33">
-  <img width="43%" align="right" alt="GitHub profile" src="https://github-readme-stats.vercel.app/api?username=mute33&show_icons=true&count_private=true&hide_border=true" />
-</a>
-
 - 💻 Working at [MediaMarktSaturn](https://www.eyeem.com/) as a freelancer.
 - 👨‍🎓 Computer Science student
 - ⚾ Playing with [Flutter](https://flutter.dev) since 2019 
@@ -27,9 +23,3 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 
-### Relevant work
-<p>
-  <a href="https://github.com/MuTe33/cloud_backend_test">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mute33&repo=cloud_backend_test" />
-  </a>
-</p>
