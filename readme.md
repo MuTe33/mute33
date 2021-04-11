@@ -9,10 +9,14 @@
 ## Languages and Tools
 
 <p>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-horizontal.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
 </p>
+
+## Some Stats
 
 <p align="center">
 <a href="https://github.com/mute33">
@@ -21,10 +25,8 @@
 </a>
 </p>
 
-## Some Stats
-
 <div align="center">
-  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+  <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="33px" /></h3> 
 </div>
 <p align="center">
  <a href="https://www.linkedin.com/in/murat-tekin-890/" target=”_blank”>
@@ -35,3 +37,4 @@
  </a>
 </p>
 
+<p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2mute33%2F" /></p>
